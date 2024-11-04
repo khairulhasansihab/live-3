@@ -478,8 +478,8 @@ https://example.com/channel3.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="",
 https://example.com/channel3.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="",
-https://example.com/channel3.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg",Asian Tv
+https:https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",
 https://example.com/channel3.m3u8
